@@ -1,6 +1,6 @@
 ![](https://shiny-app-store3.s3.amazonaws.com/approvedapp/s508_z9Sl17e5du1k0IREQRKJ4y35I7NVEjisPSCsnt6k_logo_473.jpg)
 
-# 2MFSttest: Go-To Tool for Explore Parametric T Test Analysis by MEPHAS
+# 2MFSttest: Go-To Tool to Explore Parametric T Test Analysis by MEPHAS
 
 #### Use app online: __[www.shinyappstore.com/a/2MFSttest](https://shinyappstore.com/a/2MFSttest)__
 
